@@ -306,3 +306,5 @@ settings*
 UUID.prj
 Test Suites/new.groovy
 Test Suites/new.ts
+/.classpath
+.svn/
